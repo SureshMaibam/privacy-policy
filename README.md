@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta http-equiv="Content-Language" content="en">
   <meta charset="UTF-8">
-  <title>Privacy Policy – Elementa</title>
+  <meta http-equiv="Content-Language" content="en">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy – Elementa</title>
+
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -19,6 +20,7 @@
     }
   </style>
 </head>
+
 <body>
 
 <h1>Privacy Policy for Elementa</h1>
@@ -61,7 +63,7 @@ controlled by the app developer.
 
 <h2>Changes to This Privacy Policy</h2>
 <p>
-This policy may be updated from time to time. Changes will be reflected on this page.
+This Privacy Policy may be updated from time to time. Any changes will be reflected on this page.
 </p>
 
 <h2>Contact Information</h2>
@@ -71,8 +73,10 @@ Email: <strong>kanglaacademy@gmail.com</strong>
 
 <h2>Compliance Statement</h2>
 <p>
-This Privacy Policy complies with Google Play Developer Policy and AdMob Program Policies.
+This Privacy Policy is provided to comply with Google Play Developer Policy
+and AdMob Program Policies.
 </p>
 
 </body>
 </html>
+
